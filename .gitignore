@@ -1,0 +1,5 @@
+# JMeter logs
+jmeter.log
+*.jtl
+*.tmp
+.DS_Store

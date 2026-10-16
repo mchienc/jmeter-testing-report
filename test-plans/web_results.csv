@@ -1,0 +1,479 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1792111054082,5320,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-8,text,true,,1849505,119,50,50,https://phenikaa-uni.edu.vn/vi,4948,0,649
+1792111054003,5535,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-6,text,true,,1849505,119,50,50,https://phenikaa-uni.edu.vn/vi,5119,0,728
+1792111054281,5408,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-13,text,true,,1849505,119,50,50,https://phenikaa-uni.edu.vn/vi,4972,0,459
+1792111053922,5858,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-4,text,true,,1849505,119,50,50,https://phenikaa-uni.edu.vn/vi,5464,0,817
+1792111054203,5698,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-11,text,true,,1849505,119,50,50,https://phenikaa-uni.edu.vn/vi,5291,0,528
+1792111054560,5418,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-20,text,true,,1849505,119,50,50,https://phenikaa-uni.edu.vn/vi,5032,0,175
+1792111053961,6137,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-5,text,true,,1849505,119,50,50,https://phenikaa-uni.edu.vn/vi,5747,0,769
+1792111059406,690,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,50,50,https://phenikaa-uni.edu.vn/vi,690,0,0
+1792111054521,5649,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-19,text,true,,1849505,119,49,49,https://phenikaa-uni.edu.vn/vi,5295,0,219
+1792111054120,6149,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-9,text,true,,1849505,119,49,49,https://phenikaa-uni.edu.vn/vi,5814,0,611
+1792111054602,5761,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-21,text,true,,1849505,119,49,49,https://phenikaa-uni.edu.vn/vi,5462,0,129
+1792111054361,6068,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-15,text,true,,1849505,119,49,49,https://phenikaa-uni.edu.vn/vi,5783,0,370
+1792111053910,6668,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-2,text,true,,1849505,119,49,49,https://phenikaa-uni.edu.vn/vi,6370,0,821
+1792111054041,6609,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-7,text,true,,1849505,119,49,49,https://phenikaa-uni.edu.vn/vi,6340,0,693
+1792111059538,1117,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,49,49,https://phenikaa-uni.edu.vn/vi,1117,0,0
+1792111054482,6297,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-18,text,true,,1849505,119,48,48,https://phenikaa-uni.edu.vn/vi,6003,0,248
+1792111054160,6696,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-10,text,true,,1849505,119,48,48,https://phenikaa-uni.edu.vn/vi,6437,0,571
+1792111059689,1181,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,48,48,https://phenikaa-uni.edu.vn/vi,1181,0,0
+1792111059781,1092,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,47,47,https://phenikaa-uni.edu.vn/vi,1092,0,0
+1792111059901,975,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,46,46,https://phenikaa-uni.edu.vn/vi,975,0,0
+1792111059979,902,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,45,45,https://phenikaa-uni.edu.vn/vi,902,0,0
+1792111060099,786,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,44,44,https://phenikaa-uni.edu.vn/vi,786,0,0
+1792111060171,717,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,43,43,https://phenikaa-uni.edu.vn/vi,717,0,0
+1792111060270,621,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,42,42,https://phenikaa-uni.edu.vn/vi,621,0,0
+1792111060364,528,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,41,41,https://phenikaa-uni.edu.vn/vi,528,0,0
+1792111060430,470,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,40,40,https://phenikaa-uni.edu.vn/vi,470,0,0
+1792111060579,330,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,39,39,https://phenikaa-uni.edu.vn/vi,330,0,0
+1792111060651,258,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,39,39,https://phenikaa-uni.edu.vn/vi,258,0,0
+1792111060780,130,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,39,39,https://phenikaa-uni.edu.vn/vi,130,0,0
+1792111060857,123,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,36,36,https://phenikaa-uni.edu.vn/vi,123,0,0
+1792111053910,7140,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-1,text,true,,1849505,119,35,35,https://phenikaa-uni.edu.vn/vi,6808,0,820
+1792111054240,6849,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-12,text,true,,1849505,119,35,35,https://phenikaa-uni.edu.vn/vi,6576,0,491
+1792111061052,127,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,35,35,https://phenikaa-uni.edu.vn/vi,127,0,0
+1792111054402,6781,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-16,text,true,,1849505,119,34,34,https://phenikaa-uni.edu.vn/vi,6520,0,329
+1792111061089,238,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,34,34,https://phenikaa-uni.edu.vn/vi,238,0,0
+1792111061184,146,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,33,33,https://phenikaa-uni.edu.vn/vi,145,0,0
+1792111053910,7575,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-3,text,true,,1849505,119,32,32,https://phenikaa-uni.edu.vn/vi,7317,0,821
+1792111061486,227,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,32,32,https://phenikaa-uni.edu.vn/vi,227,0,0
+1792111054322,7430,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-14,text,true,,1849505,119,31,31,https://phenikaa-uni.edu.vn/vi,7052,0,409
+1792111054441,7374,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-17,text,true,,1849505,119,31,31,https://phenikaa-uni.edu.vn/vi,7099,0,297
+1792111061753,136,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,31,31,https://phenikaa-uni.edu.vn/vi,136,0,0
+1792111054644,7356,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-22,text,true,,1849505,119,30,30,https://phenikaa-uni.edu.vn/vi,7119,0,87
+1792111061816,262,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,30,30,https://phenikaa-uni.edu.vn/vi,262,0,0
+1792111061999,144,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,29,29,https://phenikaa-uni.edu.vn/vi,144,0,0
+1792111054683,7482,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-23,text,true,,1849505,119,28,28,https://phenikaa-uni.edu.vn/vi,7255,0,107
+1792111054722,7616,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-24,text,true,,1849505,119,28,28,https://phenikaa-uni.edu.vn/vi,7405,0,68
+1792111062165,435,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,28,28,https://phenikaa-uni.edu.vn/vi,435,0,0
+1792111062337,432,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,27,27,https://phenikaa-uni.edu.vn/vi,432,0,0
+1792111054760,8014,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-25,text,true,,1849505,119,26,26,https://phenikaa-uni.edu.vn/vi,7673,0,77
+1792111054841,7990,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-27,text,true,,1849505,119,26,26,https://phenikaa-uni.edu.vn/vi,7697,0,57
+1792111062773,165,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,26,26,https://phenikaa-uni.edu.vn/vi,165,0,0
+1792111054801,8156,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-26,text,true,,1849505,119,25,25,https://phenikaa-uni.edu.vn/vi,7841,0,47
+1792111062830,135,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,25,25,https://phenikaa-uni.edu.vn/vi,134,0,0
+1792111054880,8254,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-28,text,true,,1849505,119,24,24,https://phenikaa-uni.edu.vn/vi,7935,0,24
+1792111062957,230,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,24,24,https://phenikaa-uni.edu.vn/vi,230,0,0
+1792111063133,123,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,23,23,https://phenikaa-uni.edu.vn/vi,123,0,0
+1792111054920,8382,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-29,text,true,,1849505,119,22,22,https://phenikaa-uni.edu.vn/vi,8033,0,20
+1792111063302,21,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,22,22,https://phenikaa-uni.edu.vn/vi,20,0,0
+1792111054961,8541,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-30,text,true,,1849505,119,21,21,https://phenikaa-uni.edu.vn/vi,8302,0,62
+1792111063502,59,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,21,21,https://phenikaa-uni.edu.vn/vi,59,0,0
+1792111055041,9440,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-32,text,true,,1849505,119,20,20,https://phenikaa-uni.edu.vn/vi,9170,0,65
+1792111064482,227,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,20,20,https://phenikaa-uni.edu.vn/vi,227,0,0
+1792111055081,9647,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-33,text,true,,1849505,119,19,19,https://phenikaa-uni.edu.vn/vi,9405,0,26
+1792111055120,9742,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-34,text,true,,1849505,119,19,19,https://phenikaa-uni.edu.vn/vi,9482,0,17
+1792111055001,9977,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-31,text,true,,1849505,119,19,19,https://phenikaa-uni.edu.vn/vi,9733,0,39
+1792111064727,422,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,19,19,https://phenikaa-uni.edu.vn/vi,422,0,0
+1792111064861,295,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,18,18,https://phenikaa-uni.edu.vn/vi,294,0,0
+1792111064978,182,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,17,17,https://phenikaa-uni.edu.vn/vi,182,0,0
+1792111055279,10035,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,16,16,https://phenikaa-uni.edu.vn/vi,10035,0,21
+1792111055160,10183,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-35,text,true,,1849505,119,16,16,https://phenikaa-uni.edu.vn/vi,9925,0,28
+1792111055320,10039,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,16,16,https://phenikaa-uni.edu.vn/vi,10039,0,24
+1792111055360,10027,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,16,16,https://phenikaa-uni.edu.vn/vi,10027,0,17
+1792111065315,108,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,16,16,https://phenikaa-uni.edu.vn/vi,108,0,0
+1792111065344,80,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,16,16,https://phenikaa-uni.edu.vn/vi,79,0,0
+1792111065359,74,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,14,14,https://phenikaa-uni.edu.vn/vi,74,0,0
+1792111065387,48,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,13,13,https://phenikaa-uni.edu.vn/vi,48,0,0
+1792111055400,10040,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,12,12,https://phenikaa-uni.edu.vn/vi,10040,0,21
+1792111055201,10246,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-36,text,true,,1849505,119,12,12,https://phenikaa-uni.edu.vn/vi,9972,0,18
+1792111055439,10025,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,12,12,https://phenikaa-uni.edu.vn/vi,10025,0,14
+1792111055480,10031,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,12,12,https://phenikaa-uni.edu.vn/vi,10031,0,20
+1792111055520,10028,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,12,12,https://phenikaa-uni.edu.vn/vi,10028,0,19
+1792111055559,10026,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,12,12,https://phenikaa-uni.edu.vn/vi,10026,0,16
+1792111055240,10353,HTTP Request - Trang chu Phenikaa,200,OK,Thread Group - 50 Users 1-37,text,true,,1849505,119,12,12,https://phenikaa-uni.edu.vn/vi,10126,0,21
+1792111055601,10034,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,12,12,https://phenikaa-uni.edu.vn/vi,10033,0,21
+1792111055640,10035,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,12,12,https://phenikaa-uni.edu.vn/vi,10035,0,22
+1792111055680,10035,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,12,12,https://phenikaa-uni.edu.vn/vi,10035,0,23
+1792111055719,10032,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,12,12,https://phenikaa-uni.edu.vn/vi,10032,0,18
+1792111055760,10032,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,12,12,https://phenikaa-uni.edu.vn/vi,10032,0,21
+1792111065440,694,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,12,12,https://phenikaa-uni.edu.vn/vi,694,0,0
+1792111065446,691,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,11,11,https://phenikaa-uni.edu.vn/vi,691,0,0
+1792111065464,680,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,10,10,https://phenikaa-uni.edu.vn/vi,680,0,0
+1792111065511,635,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,9,9,https://phenikaa-uni.edu.vn/vi,635,0,0
+1792111065549,600,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,8,8,https://phenikaa-uni.edu.vn/vi,600,0,0
+1792111065586,571,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,7,7,https://phenikaa-uni.edu.vn/vi,570,0,0
+1792111065593,567,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,6,6,https://phenikaa-uni.edu.vn/vi,567,0,0
+1792111065675,494,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,5,5,https://phenikaa-uni.edu.vn/vi,494,0,0
+1792111065635,534,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,5,5,https://phenikaa-uni.edu.vn/vi,534,0,0
+1792111065715,469,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,3,3,https://phenikaa-uni.edu.vn/vi,468,0,0
+1792111065751,433,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,3,3,https://phenikaa-uni.edu.vn/vi,432,0,0
+1792111065792,392,HTTP Request - Trang chu Phenikaa,500,Internal Server Error,Thread Group - 50 Users 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",311,119,3,3,https://phenikaa-uni.edu.vn/vi,391,0,0
